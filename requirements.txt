@@ -2,4 +2,4 @@ streamlit
 spacy
 textblob
 textblob_fr
-heapq
+heapq_max

@@ -20,7 +20,7 @@ Four main usage :
 * Textblob : to get the sentiment of a text
 * Textblob_fr : to do the same in french
 
-* How it works
+# How it works
 
 * The user is presented with four different options corresponding to each usage of the program detailled in the Goal header
 * He can select to either use english or french, but it only has an impact on the last two usage (get the sentiment & summaryze a text)

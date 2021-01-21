@@ -1,0 +1,6 @@
+streamlit
+spacy
+textblob
+textblob_fr
+string
+heapq

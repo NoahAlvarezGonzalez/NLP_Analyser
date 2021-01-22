@@ -1,6 +1,7 @@
 # NLP_Analyser
 
-https://nlp-analyser-noah.herokuapp.com
+Deployed on Heroku : https://nlp-analyser-noah.herokuapp.com
+Deployed on Streamlit : https://share.streamlit.io/noahalvarezgonzalez/nlp_analyser/main/app.py
 
 # Goal
 
